@@ -4,3 +4,4 @@ My TO DO LIST
 2. code
 3. study books
 4. attend class
+5. practice code
